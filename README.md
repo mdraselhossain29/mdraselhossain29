@@ -1,7 +1,7 @@
 **Hello, I'm Md. Rasel Hossain 👋**<br/>
 **Future Software Engineer || Creative Designer || Cyber Security Researcher || Competitive Programmer || UI/UX Designer**
 
-(https://drive.google.com/file/d/1JlOWkgH_z2Rso3Rj46bTSE2rCGhwZlyA/view?usp=sharing)
+
 [![](https://visitcount.itsvg.in/api?id=mdraselhossain29&icon=5&color=3)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on **Cyber Security Researcher || Competitive Programmer || UI/UX Designer** 
