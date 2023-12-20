@@ -17,7 +17,7 @@ Future Software Engineer || Creative Designer || Cyber Security Researcher || Co
 As-Salamu-Alaikum!<br>(Also showing respect and honor to all other religions...) <br><br>👋 Greetings! I am Md. Rasel Hossain, an enthusiastic Learner, Creative Idea Generator, and aspiring Cyber Security Specialist.<br><br>🎓 I am currently pursuing a Bachelor of Science (B.Sc.) degree in Software Engineering at Daffodil International University. I firmly believe in the boundless power of imagination, which serves as a gateway to gaining insights and ideas that enhance our work and deepen our understanding of the world.
 
 
-## 🌐 Socials:
+## 🌐 Socials Media:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mdraselhossain29) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdraselhossain29) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mdraselhossain29) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdraselhossain29) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mdraselhossain29) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17086018) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rasel_hossain29) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mdraselhossain29) 
 
 # 💻 Tech Stack:
