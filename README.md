@@ -15,7 +15,7 @@
 - ⚡ Fun fact: *I run a Project Development*
 
 # 💫 About Me:
-As-Salamu-Alaikum!<br>(Also showing respect and honor to all other religions...) <br><br>🎓 I am currently pursuing a Bachelor of Science (B.Sc.) degree in Software Engineering at Daffodil International University. I firmly believe in the boundless power of imagination, which serves as a gateway to gaining insights and ideas that enhance our work and deepen our understanding of the world.
+As-Salamu-Alaikum!<br>(Also showing respect and honor to all other religions...) <br><br>I am currently pursuing a Bachelor of Science (B.Sc.) degree in Software Engineering at Daffodil International University. I firmly believe in the boundless power of imagination, which serves as a gateway to gaining insights and ideas that enhance our work and deepen our understanding of the world.
 
 
 # 🌐 Socials Media:
