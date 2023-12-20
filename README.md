@@ -1,21 +1,15 @@
 ### Hi there 👋
 
-<!--
-**mdraselhossain29/mdraselhossain29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+- 🔭 I’m currently working on **Future Software Engineer || Creative Designer || Cyber Security Researcher || Competitive Programmer || UI/UX Designer** 
+- 🌱 I’m currently learning **UI/UX Design v3(from v2)**
+- 👯 I’m looking to collaborate on **Software & App Development**
+- 🤔 I’m looking for help with **Software & App Development Project**
+- 💬 Ask me about **Technology & Comunnication Development**
+- 📫 How to reach me: **mdraselt54@gmail.com**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: *I run a Project Development*
 
 # 💫 About Me:
 As-Salamu-Alaikum!<br>(Also showing respect and honor to all other religions...) <br><br>👋 Greetings! I am Md. Rasel Hossain, an enthusiastic Learner, Creative Idea Generator, and aspiring Cyber Security Specialist.<br><br>🎓 I am currently pursuing a Bachelor of Science (B.Sc.) degree in Software Engineering at Daffodil International University. I firmly believe in the boundless power of imagination, which serves as a gateway to gaining insights and ideas that enhance our work and deepen our understanding of the world.
