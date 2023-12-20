@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Cyber Security Researcher || Competitive Programmer || UI/UX Designer**
 - 🎓 I’m currently studying at the **Department of Software Engineering, Daffdoil International University**
-- 🌱 I’m currently learning **UI/UX Design v3(from v2)**
+- 🌱 I’m currently learning **UI/UX Design & Creative Design**
 - 👯 I’m looking to collaborate on **Software & App Development**
 - 🤔 I’m looking for help with **Software & App Development Project**
 - 💬 Ask me about **Technology & Comunnication Development**
