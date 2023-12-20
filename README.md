@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi there
+I'm Md. Rasel Hossain 👋
 
 [![](https://visitcount.itsvg.in/api?id=mdraselhossain29&icon=5&color=3)](https://visitcount.itsvg.in)
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Future Software Engineer || Creative Designer || Cyber Security Researcher || Competitive Programmer || UI/UX Designer** 
 - 🌱 I’m currently learning **UI/UX Design v3(from v2)**
