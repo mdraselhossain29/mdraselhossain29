@@ -15,7 +15,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Cyber Security Research || Competitive Programming || UI/UX Designing<br>🎓 I’m currently studying at the Department of Software Engineering, Daffdoil International University<br>🌱 I’m currently learning UI/UX Design & Creative Design<br>🛠️ I’m looking to collaborate on Software & App Development<br>🤔 I’m looking for help with Software & App Development Project<br>💬 Ask me about Technology & Comunnication Development<br>📫 How to reach me: mdraselt54@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I run a Project Development
+Hello, I'm Md. Rasel Hossain. I'm a Student of the Department of the Software Engineering - SWE at Daffodil International University.
 
 
 # 🌐 Socials:
